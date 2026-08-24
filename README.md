@@ -76,6 +76,6 @@ Fully cited sources (energy figures, UK standards, hallucination literature) in 
 
 Released under [CC BY 4.0](LICENSE) — free to use, adapt and share with attribution.
 
-> Raja Sekar, S. (2026) *Eco-Prompts for AEC*. Available at: https://github.com/YOUR-USERNAME/eco-prompts-aec
+> Raja Sekar, S. (2026) *Eco-Prompts for AEC*. Available at: https://github.com/Snega90/eco-prompts-aec
 
-Created by **Snega Raja Sekar** — [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+Created by **Snega Raja Sekar** — [LinkedIn] https://www.linkedin.com/in/snegarajasekar/
